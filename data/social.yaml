@@ -1,19 +1,16 @@
 social:
-- icon: facebook-square
-  icon_pack: fab
-  link: https://twitter.com/apreshill
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/apreshill
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/thirdculturekat
+- icon: brain
+  icon_pack: fab
+  link: https://katrinarbeiz.netlify.app/
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
+  link: https://github.com/katrinarbeiz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
-- icon: rss
-  icon_pack: fas
-  link: /blog/index.xml
+  link: https://www.linkedin.com/public-profile/in/katrina-r-478295165?challengeId=AQFDsDx5zc1vfgAAAXc_KKdUYoMu5kQ2dNI7fkEtQiMbuXAFDx2y-p_IdWCt9DVNDWrmmOqSxmq8pfN4VSWKKWTO16JtK0nuJQ&submissionId=68c76ff9-79cf-5d16-965c-3a797e6d7757
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/show/5Z5IZD8iLjeHVndfWVoILp
