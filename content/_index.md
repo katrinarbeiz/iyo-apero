@@ -1,7 +1,7 @@
 ---
 title: "Third Culture Kat"
 subtitle: "stories, articles, and morsels of wonder"
-description: "Third Culture Kid (TCK): Someone who has resided in at least one country other than that of their nationality or their parents’culture. Born in Lebanon, and raised in five countries before moving to the United States to pursue a college degree, I am a TCK. :world_map:"
+description: "Third Culture Kid (TCK): Someone who has resided in at least one country other than that of their nationality or their parents’culture. Born in Lebanon, and raised in five countries before moving to the United States to pursue a college degree, I am a TCK."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
